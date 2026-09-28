@@ -1,0 +1,16 @@
+/logs
+/logs/*
+resource-cache
+resource-cache/*
+backups/
+backups/*
+*.dll
+server-id.keys
+resource-cache/*
+banlist.xml
+local.conf
+*.db
+databases/
+editor_acl.xml
+editor.conf
+settings.xml
